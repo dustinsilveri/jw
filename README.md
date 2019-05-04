@@ -1,4 +1,4 @@
-# jw
+# Daily Text Email Script
 
 # Created by van6uard
 
