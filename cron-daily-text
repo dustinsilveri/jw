@@ -1,0 +1,1 @@
+5 10 * * * USER /opt/daily-text-email.py
