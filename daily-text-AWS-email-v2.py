@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 ##################################################################
-## Created by van6uard
+## Created by d_silv
 ## 
 ## This script will scrape the daily text off wol.jw.org and email it.  
 ## setup this up on a cron job to receive the daily text everyday.
